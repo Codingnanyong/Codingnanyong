@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Office DataWareHouse API.**
 
-- 🌱 I’m currently learning **Flutter.**
+- 🌱 I’m currently learning **React.**
 
 - 📫 How to reach me **ryu.coding1@gmail.com**
 
