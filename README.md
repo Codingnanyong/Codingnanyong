@@ -2,7 +2,7 @@
 <h3 align="center">A Korean who wants to become a Full-Stack Developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryu-coding&label=Profile%20views&color=0e75b6&style=flat" alt="ryu-coding" /> </p>
 
-- 🔭 I’m currently working on [OpenAPI by CSG](https://github.com/ryu-coding/csg.git)
+- 🔭 I’m currently working on [FDW ,OpenAPI, WebService by CSG](https://github.com/ryu-coding/csg.git)
 
 - 🌱 I’m currently learning **Front-End(React, Svelte...), Back-End(Node.js, Django)**
 
