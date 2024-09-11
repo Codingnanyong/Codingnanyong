@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ryu-coding (Tea Hyeon Ryu)</h1>
+<h1 align="center">Hi 👋, I'm Codingnanyong </h1>
 <h3 align="center">A Korean who wants to become a Full-Stack Developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryu-coding&label=Profile%20views&color=0e75b6&style=flat" alt="ryu-coding" /> </p>
 
